@@ -4,7 +4,7 @@
 #
 
 app = 'vernissage-redis'
-primary_region = 'waw'
+primary_region = 'ams'
 
 [build]
   image = 'redis/redis-stack-server:latest'
